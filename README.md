@@ -1,4 +1,4 @@
 # devbox-official
 A tool for developer
 
-[](./devbox-demo.gif)
+![Alt text for your GIF](devbox-demo.gif)
