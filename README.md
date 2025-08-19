@@ -1,4 +1,4 @@
 # devbox-official
 A tool for developer
 
-![demo mov](devbox-demo.mov)
+![demo mov](./devbox-demo.gif)
